@@ -20,7 +20,7 @@
 
 ## Website scan
 
-### Dnsrecon (Kali)
+#### Dnsrecon (Kali)
 Утилита на Python, которая отображает хосты, домены и другую информация о сайте. 
 
 Для базового тестирования:
@@ -29,11 +29,11 @@
 для брута деректорий:
 > dnsrecon -d c -D /root/dnsmapCommonSubdomains.txt
 
-### Dirb (Kali)
+#### Dirb (Kali)
 Он покажет всевозможные существующие страницы, где ответы не содержат код страницы 404. 
 > dirb site.com
 
-### Nmap (Kali)
+#### Nmap (Kali)
 Сетевой сканер, который позволяет показать какие порты используются и что на них установлено.
 
 
@@ -42,7 +42,7 @@
 
 ## Wordpress
 
-### WPscan (Kali)
+#### WPscan (Kali)
 > wpscan -u site.com
 
 после найти уязвимости: exploit-db
@@ -52,11 +52,11 @@
 
 ## тренинг
 
-### Damn Vulnerable Web Application (DVWA) (http://www.dvwa.co.uk/)
+#### Damn Vulnerable Web Application (DVWA) (http://www.dvwa.co.uk/)
 
 Это сайт на PHP, который демонстрирует ряд уязвимостей для изучения
 
-### Buggy web application (bWAPP) (http://www.itsecgames.com/)
+#### Buggy web application (bWAPP) (http://www.itsecgames.com/)
 
 Это открытое приложение и включает в себя около сотни уязвимостей, которые классифицируются по OWASP. Также есть готовая сборка для виртуальной машины bee-box.
 
