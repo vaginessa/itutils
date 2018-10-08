@@ -3,7 +3,7 @@
 
 
 
-## General
+## общий
 
 #### OWASP (https://www.owasp.org/index.php/Main_Page)
 
@@ -18,7 +18,7 @@
 
 
 
-## Website scan
+## сканирование сайта
 
 #### Dnsrecon (Kali)
 Утилита на Python, которая отображает хосты, домены и другую информация о сайте. 
