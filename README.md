@@ -3,7 +3,7 @@
 
 
 
-## общий
+## общие ресурсы
 
 #### OWASP (https://www.owasp.org/index.php/Main_Page)
 
@@ -15,7 +15,9 @@
 
 #### exploit-db (https://www.exploit-db.com/)
 
+#### IPper https://ipper.ru/
 
+#### браузер
 
 
 ## сканирование сайта
@@ -48,7 +50,59 @@
 после найти уязвимости: exploit-db
 
 
+## андроид
 
+#### сообщениям WhatsApp
+
+##### контакты
+
+> /data/data/com.whatsapp/databases/wa.db
+
+##### сообщения
+
+> /data/data/com.whatsapp/databases/msgstore.db
+
+##### ключ шифрования
+
+> /data/data/com.whatsapp/files/key
+
+##### резервные хранятся
+
+> /sdcard/WhatsApp/Databases/msgstore.db.crypt7
+
+### анализ
+
+Andriller (https://www.andriller.com/download/)
+
+WhatsApp Viewer (https://andreas-mausch.de/whatsapp-viewer/): Small tool to display chats from the Android msgstore.db.
+
+### VK Coffee
+
+#### Сообщения 
+
+> /data/data/su.operator555.vkcoffee/databases/databaseVerThree.db 
+> /data/data/su.operator555.vkcoffee/databases.vk.db
+
+#### Группы
+
+> /data/data/su.operator555.vkcoffee/databases/groups.db
+
+### VK official
+
+#### Сообщения
+
+> /data/data/com.vkontakte.android/databases/vkim.sqlite
+> /data/data/com.vkontakte.android/databases/vk.db
+
+#### Список групп
+
+> /data/data/com.vkontakte.android/databases/groups.db
+
+### Kate Mobile
+
+#### Сообщения+группы 
+
+> /data/data/com.prem.kate_new_6/databases/kate.db
 
 ## тренинг
 
@@ -60,5 +114,8 @@
 
 Это открытое приложение и включает в себя около сотни уязвимостей, которые классифицируются по OWASP. Также есть готовая сборка для виртуальной машины bee-box.
 
+## безопасность
+
+WebRTC: может «засветить» реальный IP юзера, несмотря на использование VPN, Tor, Proxy.
 
 # I just found the contents of this repository around the web.
