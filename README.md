@@ -153,6 +153,8 @@ WhatsApp Viewer (https://andreas-mausch.de/whatsapp-viewer/): Small tool to disp
 
 ## безопасность
 
+пароль утилит: Keepass https://keepass.info/
+
 WebRTC: может «засветить» реальный IP юзера, несмотря на использование VPN, Tor, Proxy.
 
 # I just found the contents of this repository around the web.
