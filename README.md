@@ -13,9 +13,11 @@
 >https://www.owasp.org/index.php/Category:OWASP_Top_Ten_Project
 >https://www.owasp.org/index.php/OWASP_Testing_Guide_v4_Table_of_Contents
 
-#### exploit-db (https://www.exploit-db.com/)
+#### exploit-db https://www.exploit-db.com/
 
 #### IPper https://ipper.ru/
+
+#### ';--have i been pwned? https://haveibeenpwned.com/
 
 #### браузер
 
