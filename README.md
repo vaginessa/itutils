@@ -54,6 +54,13 @@
 
 ## андроид
 
+### слежку
+
+ACR или ACRPRO (https://nllapps.com/)
+AirFroid
+Talklog (https://talklog.tools/ru/)
+NeoSpy (https://neospy.net/account/)
+
 #### сообщениям WhatsApp
 
 ##### контакты
