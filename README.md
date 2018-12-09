@@ -25,7 +25,11 @@ region // название региона/штата
 state // псевдоним региона 
 version // версия продукта 
 vuln // идентификатор CVE для уязвимости
-
+### Уязвимости и эксплоиты с CVE (https://exploits.shodan.io/welcome)
+author // автор уязвимости
+description //описание 
+platform //целевая платформа (php, windows, linux)
+type //тип эксплоита (dos, remote)
 
 ## общие ресурсы
 
