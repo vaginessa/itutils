@@ -9,6 +9,33 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | cache:[url]  | y | x | x | x |
 | related:[url] | y | x | x | x |
+| info:[url] | y | x | x | x |
+| site:[url] | y | y | y | y |
+| intitle:[text] | y | y | y | y |
+| allintitle:[url] | y | y | y | y |
+| inurl:[url] | y | y | x | x |
+| allinurl:[url] | y | y | x | x |
+| meta:[text] | x | x | x | y |
+| filetype:[file extension] | y | y | y | y |
+| intext:[text] | y | y | y | y |
+| allintext:[text] | y | y | y | y |
+| inbody:[text] | y | y | y | y |
+| inanchor:[text] | y | x | x | y |
+| location:[iso code] | x | y | x | y |
+| loc:[iso] | x | y | x | y |
+| region:[region code] | x | y | x | y |
+| contains:[text] | x | x | x | y |
+| altloc:[iso code] | x | x | x | y |
+| domain:[url] | x | x | x | y |
+| feed:[feed type, i.e. rss] | x | y | y | y |
+| hasfeed:[url] | x | y | x | y |
+| imagesize:[digit, i.e. 600] | x | x | x | y |
+| ip:[ip address] | x | y | y | y |
+| keyword:[text] | x | x | x | y |
+| language:[language code] | x | x | y | y |
+| book:[title] | y | x | x | x |
+| maps:[location] | y | x | x | x |
+| linkfromdomain:[url] | x | x | x | y |
 
 #### OWASP (https://www.owasp.org/index.php/Main_Page)
 
