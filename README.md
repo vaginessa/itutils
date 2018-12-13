@@ -208,6 +208,11 @@ WhatsApp Viewer (https://andreas-mausch.de/whatsapp-viewer/): Small tool to disp
 ###### возможности выполнения любого javascript на стороне цели
 Для реализации вам необходимо перейти в Misc и выбрать Raw JavaScript. После этого можно будет внедрить любой код и нажать Execute.
 
+## Инструменты для брутфорса
+
+Hydra, Patator и Medusa
+
+
 ## тренинг
 
 #### Damn Vulnerable Web Application (DVWA) (http://www.dvwa.co.uk/)
